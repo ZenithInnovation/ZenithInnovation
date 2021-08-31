@@ -2,6 +2,6 @@
 
 ### Membros: 
   * Gabriel Marcelino
-  * [Marco Antonio](www.github.com/marcoan20)
+  * [Marco Antonio](https://github.com/marcoan20)
   * Matheus Dourado
   * Rian Ernesto
